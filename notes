@@ -1,0 +1,8 @@
+2023-12-12
+    - use c++17 
+    - need to figure out how to install raylib
+    - need to figure out how to use cmake
+        - create a file "CMakeList.txt"
+    - create a box
+    - import the google testing library -> https://github.com/google/googletest 
+    - figure out how to use valgrind for memory leaks -> https://valgrind.org/
