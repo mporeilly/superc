@@ -1,0 +1,6 @@
+CMakeFiles/
+*.cmake 
+_deps/
+*.json
+CMakeCache.txt
+Makefile
